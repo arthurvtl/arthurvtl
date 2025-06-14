@@ -1,7 +1,7 @@
 Hi 👋 My name is Arthur Vital
 ==========================
 
-Full Stack Software Developer Trainer
+Information Technology Student
 -----------------------------
 
 I'm Arthur Vital! Information Systems student at the Federal Institute of Espírito Santo (IFES) and graduated as a computer technician from the same institution. I have experience in front-end and back-end development, extensive knowledge in databases and Office Package tools. I am looking for new professional opportunities that challenge me and provide constant development in the technology area.
